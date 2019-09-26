@@ -1,0 +1,1 @@
+function minu(n,o){return console.log(9),n-o}

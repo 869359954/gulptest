@@ -1,0 +1,19 @@
+{
+  "name": "mygulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "gulp-connect": "^5.7.0"
+  }
+}

@@ -1,0 +1,1 @@
+function add(n,o){return console.log("y"),n+o}
